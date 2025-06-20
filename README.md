@@ -120,4 +120,4 @@ This Snake Game reflects not only your programming capability but also your abil
 
 #OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/e5be52f9-847d-4b05-b536-772a6ce3bb5b)
